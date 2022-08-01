@@ -24,6 +24,7 @@ def print_instructions():
   print("Simple Python Calculator")
   print("************************")
   print("\nOperation Symbols")
+  print("************************")
   
   a = [
     ["Sum = +", "Subtract = -", "Multiply = *"],
