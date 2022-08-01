@@ -1,6 +1,4 @@
 #Simple Python Calculator
-
-#function for calculations
 def select_operation(a, b):
   user = input(str("Enter an Operation : "))
   if user == "+":
@@ -19,7 +17,6 @@ def select_operation(a, b):
     print("Invalid Number") 
     return(float(a, b))
 
-#function for instructions
 def print_instructions():
   print("Simple Python Calculator")
   print("************************")
